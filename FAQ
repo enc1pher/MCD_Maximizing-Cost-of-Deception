@@ -1,0 +1,27 @@
+## 📚 Glossary & FAQ
+
+### What is "GRIME"?
+**GRIME** stands for **"Ground Reality / Immutable Metric Enforcement."**
+*(Or, philosophically: The "Sticky" Truth vs. The "Beige" Lie.)*
+
+In the context of the **MCD Protocol**, "Grime" refers to the necessary friction of reality.
+* **The Beige:** AI-generated content that is smooth, optimized for engagement, and often hallucinated (low entropy, high deception).
+* **The Grime:** Human-verified reality that contains the "messiness" of truth (high entropy, verifiable provenance).
+* **Grime-Level Checks:** Deep-dive validations performed by human nodes (OSINT, ethical review) that cannot be automated by a smooth algorithm.
+
+### What is the "Space Breadstick"?
+The **Space Breadstick** is the "Patient Zero" of the MCD paradigm. It refers to a 2024 incident where a viral image of a baguette was ingested by AI models and news aggregators as a scientific discovery (the comet 3I/ATLAS). It represents the failure of algorithms to distinguish between *Visual Engagement* and *Physical Reality*.
+
+Source: https://economictimes.indiatimes.com/news/international/us/3i/atlas-image-released-by-japanese-space-agency-interstellar-comets-shocking-visual-sparks-global-interest-researchers-visitor-object-nasa-esa-data-and-spectrum-analysis/articleshow/125172976.cms?from=mdr
+
+### What is the "Source URL"?
+The **Source URL** is the immutable blockchain record or the canonical repository where the "Trust Score" of a piece of data originates. In this protocol, trust is not just a label; it is a verifiable chain of custody.
+
+* **Canonical Repo:** [https://github.com/enc1pher/MCD_Maximizing-Cost-of-Deception/](https://github.com/enc1pher/MCD_Maximizing-Cost-of-Deception)
+
+### Why "The Penguin Colony"?
+A penguin colony survives through **Shared Warmth** (Collective Defense).
+* **Current AI Model:** A lone predator optimized to eat (maximize engagement).
+* **MCD Model:** A colony where individual nodes (validators) share the burden of verification. If one node identifies "Data Rot" (a predator), the entire colony shifts to protect the integrity of the dataset.
+
+---
