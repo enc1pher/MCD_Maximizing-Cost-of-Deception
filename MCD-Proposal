@@ -1,0 +1,48 @@
+PROPOSAL FOR A NEW PROJECT: THE MCD PROTOCOL
+
+Project Title: Maximizing Cost of Deception (MCD): An Architectural Shift Toward Verifiable Information Integrity in AI Ingestion. 
+
+Architect: April C. Wright
+https://architectsecurity.org
+
+I. The Problem: The Optimization Trap and Data Rot
+
+The current AI ecosystem is critically vulnerable to "Data Rot"—the systemic poisoning of Large Language Models (LLMs) through flawed, biased, or unethically sourced training data. We are currently caught in an Optimization Trap: simple algorithms are relentlessly pursuing a single instruction—"Maximize Engagement"—without an ethical objective function.
+
+This failure was most visibly demonstrated by "The Space Breadstick" incident. A viral image of a baguette, misidentified as a Japanese Space Agency discovery, was ingested by reputable news outlets and AI aggregators as scientific fact. This is not a failure of content moderation; it is a failure of digital thermodynamics. When the Cost of Deception is near zero, entropy (misinformation) becomes the dominant state of the system.
+
+Source:  https://economictimes.indiatimes.com/news/international/us/3i/atlas-image-released-by-japanese-space-agency-interstellar-comets-shocking-visual-sparks-global-interest-researchers-visitor-object-nasa-esa-data-and-spectrum-analysis/articleshow/125172976.cms?from=mdr
+
+II. The Goal: Shifting Trust Left
+
+As a Senior Security and Privacy Architect with 30 years of experience, I have seen that reactive security is a "Capybara Problem"—you cannot simply add safety on top of a fundamentally flawed objective function.
+
+The goal of the MCD Project is to "Shift Trust Left" by introducing a mandatory validation layer before data is ever used to train a model. We seek to move the burden of verification from the consumer to the point of provenance.
+
+III. Methodology: The Penguin Colony Protocol
+
+The project proposes a decentralized, cryptographic system for establishing data quality and ethical provenance consensus. The methodology consists of:
+
+Decentralized Provenance Tracking: Utilizing an immutable ledger to record the source, history, and modification metadata of every data segment.
+
+Reputation-Weighted Validation Nodes: A network of independent experts (Validation Nodes) who run "Grime-level" checks—such as OSINT and ethical reviews—on data quality.
+
+Trust Scoring Engine: A proprietary protocol that weights input from these nodes to generate a verifiable "Trust Score". This leverages "Maltego-style" link analysis to dynamically adjust scores based on a node's sustained accuracy.
+
+Ingestion Guardrails: Technical gateways that automatically enforce a data ingestion policy, preventing an LLM from ingesting data if its Trust Score is below a predetermined threshold.
+
+IV. Collaboration and Benefits
+
+This project sits at the intersection of the Ethics and Governance of AI and Information Integrity workstreams. 
+
+I seek to collaborate in order to:
+
+Translate Technical Agony: I will use my background in "High-Gain Communication" to explain complex architectural risks to non-technical policymakers.
+
+Cross-Disciplinary Validation: Work with law and policy experts to define the "Public Good" objective functions that should replace "Maximize Engagement" as the standard for AI development.
+
+V. Resource Requirements
+
+Staff Support: I will require access to research assistants with backgrounds in behavioral economics (to model deception costs) and decentralized governance, and coders with blockchain experience to further this research.
+
+Costs: Estimated costs are minimal, primarily involving cloud-based hosting for a small-scale proof-of-concept validation network.
