@@ -1,4 +1,5 @@
 MCD (Maximizing Cost of Deception) & The Space Breadstick Protocol
+
 A New Paradigm for Information Integrity and AI Ingestion Guardrails
 
 Architect: April C. Wright
