@@ -52,3 +52,17 @@ In 2019, I made a Nic Cage-heavy-laden Prediction and identified that "If anythi
 The 2026 Evolution: MCD is the decentralized implementation of this 2019 architectural necessity.
 
 Watch the 2019 Prediction: [GrrCON 2019: If anything can be real, nothing is real](https://youtu.be/d_UVQGPdDbg?si=lOM3XA0u6WGUFLPy)
+
+5. The Call To Action
+
+We have reached a point where we can no longer distinguish an AI-generated rendition of an image from a scientific discovery in our daily news feeds. This is the result of 30 years of treating information as a commodity to be optimized rather than a public good to be protected.
+
+MCD is a call for builders who are tired of the noise.
+
+Fork this repository: Ensure the logic of "Shifting Trust Left" survives.
+
+Build the Guardrails: We need developers to create the "Trust-Aware" filters for the next generation of news ingestion.
+
+Join the Resistance: Help us increase the Cost of Deception until it is no longer profitable for the oligarchs to lie.
+
+We are not just building code; we are building an immune system for reality.
