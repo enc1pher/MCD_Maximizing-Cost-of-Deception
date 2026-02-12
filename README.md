@@ -46,7 +46,7 @@ As an inventor of new paradigms, a NASA-referenced practitioner, speaker, hacker
 
 We are currently caught in an Optimization Trap, but we can architect our way out.
 
-The concept of **MCD (Maximizing Cost of Deception)** was first publicly proposed by April C. Wright in **October 2019** under the name *"Immutable Authentication Trails."*
+The concept of **MCD (Maximizing Cost of Deception)** was first publicly proposed by April C. Wright in **October 2019** under the name "If anyrhinf can be real, rhen norhinf is real" aka *"Immutable Authentication Trails."*
 
 In 2019, I made a Nic Cage-heavy-laden Prediction and identified that "If anything can be real, nothing is real" (The Liar's Dividend).
 
